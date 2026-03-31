@@ -16,3 +16,5 @@ Minecarts can be used for faster mobility to get to the surface.
 The deeper you go, the better ores there are, but there are pursuers to stop you.
 
 There are over ***20*** different kinds of ores you can get!
+
+# *More will be added*
